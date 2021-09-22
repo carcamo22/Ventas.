@@ -19,7 +19,7 @@ namespace ventas._1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("hola mundo :)");
+            MessageBox.Show("Para tener éxito tu deseo de alcanzarlo debe ser mayor que tu miedo al fracaso ");
         }
     }
 }
