@@ -19,7 +19,7 @@ namespace ventas._1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola Mundo");
+            MessageBox.Show("hola mundo :)");
         }
     }
 }
